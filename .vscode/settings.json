@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "[typescript]": {
+    "editor.wordWrap": "on"
+  }
+}
